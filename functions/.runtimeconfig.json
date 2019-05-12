@@ -1,0 +1,25 @@
+{
+  "algolia": {
+    "app_id": "TOS20M7VT1",
+    "search_key": "c283440030db1f9446e8b410f7352479",
+    "api_key": "c76095f595b5add42fa0f85c0fcfd45e"
+  },
+  "recaptcha": {
+    "secretkey": "6LcO1EUUAAAAAHWS9Pdvj5SHCjkbNfStLPq8oVoT"
+  },
+  "gmail": {
+    "password": "boxbnszjtzafmqib",
+    "email": "endactiongroup@gmail.com"
+  },
+  "plivo": {
+    "authid": "MAMGM1YJMLDD0MDC4MG",
+    "authtoken": "ZjkzYjMfeOWJiYzUxZGRdsOTY4NDcyNmQwOTUy"
+  },
+  "setting": {
+    "feedemail": "amir.gholzam@live.com",
+    "appname": "React Social"
+  },
+  "phone": {
+    "sourcenumber": "+9891122698"
+  }
+}
